@@ -1,3 +1,0 @@
-[submodule "vendor/github.com/microsoft/ApplicationInsights-Go"]
-	path = vendor/github.com/microsoft/ApplicationInsights-Go
-	url = https://github.com/microsoft/ApplicationInsights-Go

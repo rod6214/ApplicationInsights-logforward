@@ -1,4 +1,4 @@
-module github.com/rod6214/ApplicationInsights-logforward/ailogtrace
+module github.com/rod6214/ApplicationInsights-logforward/ailognginx
 
 go 1.16
 
