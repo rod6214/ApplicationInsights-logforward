@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/jjjordanmsft/ApplicationInsights-logforward/common"
+	"github.com/rod6214/ApplicationInsights-logforward/common"
 )
 
 func main() {
